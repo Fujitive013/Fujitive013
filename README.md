@@ -34,37 +34,6 @@ I specialize in backend development, focusing on:
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fujitive013)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fujitive013)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🔤 **Most-used Tools & Languages**
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fujitive013&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Fujitive013&theme=algolia&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ### 🔗 **Contact Me**
 - **📧 Email:** paredes.axel456@gmail.com
 - **🔗 LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](#)

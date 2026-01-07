@@ -30,9 +30,7 @@ I specialize in backend development, focusing on:
 - **Languages & Frameworks:** JavaScript (Node.js), Python
 - **Backend Tools:** Express.js, REST API, Postman
 - **Databases:** PostgreSQL, MongoDB
-- **DevOps:** Docker, CI/CD workflows
 - **Machine Learning Tools:** TensorFlow, Scikit-learn
-- **Best Practices:** Unit testing, authentication, scalability
 
 ---
 
@@ -69,7 +67,7 @@ I specialize in backend development, focusing on:
 
 ### 🔗 **Contact Me**
 - **📧 Email:** paredes.axel456@gmail.com
-- **🔗 LinkedIn:** [linkedin.com/in/Fujitive013](#)
+- **🔗 LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](#)
 - **🌐 Portfolio:** [github.com/Fujitive013](https://github.com/Fujitive013)
 
 ---

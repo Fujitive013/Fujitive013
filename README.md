@@ -28,7 +28,7 @@ I specialize in backend development, focusing on:
 
 ## 🛠️ **Core Skills**
 - **Languages & Frameworks:** JavaScript (Node.js), Python
-- **Backend Tools:** Express.js, REST API, Postman
+- **Backend Tools:** Express.js, FastAPI, REST API, Postman
 - **Databases:** PostgreSQL, MongoDB
 - **Machine Learning Tools:** TensorFlow, Scikit-learn
 

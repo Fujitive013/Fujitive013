@@ -37,7 +37,6 @@ I specialize in backend development, focusing on:
 ### 🔗 **Contact Me**
 - **📧 Email:** paredes.axel456@gmail.com
 - **🔗 LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](#)
-- **🌐 Portfolio:** [github.com/Fujitive013](https://github.com/Fujitive013)
 
 ---
 

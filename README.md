@@ -38,8 +38,8 @@ I specialize in backend development, focusing on:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fujitive013&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Fujitive013&theme=dark&hide_border=true&fire=ffae42)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fujitive013)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fujitive013)](https://git.io/streak-stats)
 
 </div>
 

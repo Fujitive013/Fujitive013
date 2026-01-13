@@ -2,6 +2,8 @@
 
 Welcome to my GitHub space! I'm a backend developer passionate about creating **secure APIs**, **efficient server-side logic**, and **scalable systems**. I also explore **machine learning** solutions for real-world problems.
 
+You can view my full portfolio and projects here: **[Visit My Portfolio](https://portfolio-fujitives-projects.vercel.app)**
+
 ---
 
 ## About Me
@@ -30,6 +32,7 @@ I specialize in backend development, focusing on:
 ---
 
 ### Contact Me
+- **Portfolio:** [View My Work](https://your-portfolio-link.com)
 - **Email:** paredes.axel456@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](https://www.linkedin.com/in/axel-paredes-4b4679398)
 

@@ -32,7 +32,7 @@ I specialize in backend development, focusing on:
 ---
 
 ### Contact Me
-- **Portfolio:** [View My Work](https://your-portfolio-link.com)
+- **Portfolio:** [View My Work](https://axel-paredes-portfolio.vercel.app)
 - **Email:** paredes.axel456@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](https://www.linkedin.com/in/axel-paredes-4b4679398)
 

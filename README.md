@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space! I'm a backend developer passionate about creating **secure APIs**, **efficient server-side logic**, and **scalable systems**. I also explore **machine learning** solutions for real-world problems.
 
-You can view my full portfolio and projects here: **[Visit My Portfolio](https://portfolio-fujitives-projects.vercel.app)**
+You can view my full portfolio and projects here: **[Visit My Portfolio](https://portfolio-ten-silk-65.vercel.app)**
 
 ---
 

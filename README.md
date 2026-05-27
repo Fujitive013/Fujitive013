@@ -7,7 +7,7 @@ You can view my full portfolio and projects here: **[Visit My Portfolio](https:/
 ---
 
 ## 🚀 About Me
-I specialize in end-to-end software development across the entire lifecycle, currently applying my skills as an **R&D Intern Developer at Livro Systems Inc.** My focus areas include:
+I specialize in end-to-end software development, having recently engineered secure payment gateways, dynamic RBAC dashboards, and scalable database architectures within a professional R&D environment. My focus areas include:
 - Building dynamic, responsive front-ends using the **React** and **TypeScript** ecosystems.
 - Crafting efficient, scalable, and secure **RESTful APIs** and routing logic.
 - **Database Architecture** using PostgreSQL, DrizzleORM, and NoSQL solutions.
@@ -46,3 +46,9 @@ I specialize in end-to-end software development across the entire lifecycle, cur
 - **LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](https://www.linkedin.com/in/axel-paredes-4b4679398)
 
 ---
+
+<div align="center">
+  
+### Happy Coding! 🚀
+
+</div>

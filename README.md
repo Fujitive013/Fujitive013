@@ -47,8 +47,3 @@ I specialize in end-to-end software development, having recently engineered secu
 
 ---
 
-<div align="center">
-  
-### Happy Coding! 🚀
-
-</div>

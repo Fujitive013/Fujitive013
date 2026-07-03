@@ -1,49 +1,57 @@
-# Hi, I'm Axel Paredes 👋
+# Axel Paredes
 
-Welcome to my GitHub space! I am an Information Technology student and a **Full-Stack Developer** passionate about crafting intuitive, state-driven front-end experiences, engineering secure APIs, and designing complex relational databases. I also actively explore **machine learning** solutions for real-world applications.
+**Full-Stack Developer**
 
-You can view my full portfolio and projects here: **[Visit My Portfolio](https://axel-paredes-portfolio.vercel.app)**
+Welcome to my GitHub. I am a software developer specializing in the TypeScript ecosystem, building scalable web platforms and cross-platform mobile applications. My work focuses on crafting state-driven user interfaces, architecting secure RESTful APIs, and integrating machine learning capabilities into production environments.
 
----
-
-## 🚀 About Me
-I specialize in end-to-end software development, having recently engineered secure payment gateways, dynamic RBAC dashboards, and scalable database architectures within a professional R&D environment. My focus areas include:
-- Building dynamic, responsive front-ends using the **React** and **TypeScript** ecosystems.
-- Crafting efficient, scalable, and secure **RESTful APIs** and routing logic.
-- **Database Architecture** using PostgreSQL, DrizzleORM, and NoSQL solutions.
-- Implementing robust security measures (JWT, RBAC) and integrating third-party services (payment gateways, automated email receipts).
-- Exploring **machine learning** to integrate predictive AI models into modern applications.
+**[View My Live Portfolio](https://axel-paredes-portfolio.vercel.app)**
 
 ---
 
-## 💻 Featured Projects
-- **[SmartVote Backend](https://github.com/Fujitive013/SmartVote-Backend):** A RESTful backend for secure e-voting platforms built with Node.js and MongoDB. Features real-time election tracking via Socket.io, JWT authentication, and containerized deployment using Docker.
-- **[RideAlert Backend](https://github.com/IvannEmmanuel/RideAlert-Backend):** Scalable server-side logic for a real-time PUV monitoring system, handling high-volume user requests and database integration for seamless user experiences.
-- **[ML Code for RideAlert Capstone](https://github.com/Fujitive013/ML-code-RideAlert):** A machine learning integration designed for alert predictions in ride platforms, focusing on data cleaning and server-side model optimization.
+## Professional Summary
+
+I specialize in end-to-end software development and shipping production-ready features. My recent professional experience includes engineering complex database architectures, dynamic role-based access control (RBAC) dashboards, and secure payment integrations within a corporate R&D environment. 
+
+My core engineering focus includes:
+*   **Full-Stack Web:** Building responsive, high-performance applications using Next.js, React, and TypeScript.
+*   **Backend & APIs:** Architecting secure, real-time backend services using Node.js, Express, and FastAPI.
+*   **Database Architecture:** Designing relational schemas and compliance-critical logging with PostgreSQL and modern ORMs.
+*   **Mobile Development:** Building native-feeling cross-platform applications with React Native and Expo.
+*   **AI & Data:** Integrating predictive machine learning models and engineering complex data pipelines using Python.
 
 ---
 
-## 🛠️ Core Skills
-### Languages
-- JavaScript | TypeScript | Python | SQL | Java
+## Technical Projects
 
-### Frontend & Web
-- React.js | Next.js | React Native | Expo | Vite
+### SmartVote Backend
+**[View Repository](https://github.com/Fujitive013/SmartVote-Backend)**
+A secure RESTful backend enabling real-time election tracking. Built with Node.js and MongoDB, this architecture features real-time data synchronization via Socket.io, strict JWT authentication protocols, and containerized deployment using Docker.
 
-### Backend & Databases
-- Node.js | Express.js | FastAPI 
-- PostgreSQL | MongoDB | Firebase | Supabase
-- DrizzleORM
+### RideAlert Backend
+**[View Repository](https://github.com/IvannEmmanuel/RideAlert-Backend)**
+Scalable server-side infrastructure for a real-time tracking system. Engineered to handle high-volume concurrent user requests and complex database integrations for a seamless client experience.
 
-### Tools & Infrastructure
-- Git/GitHub | Docker | Postman | Socket.io | VS Code | SQLDBM
-
----
-
-## 📫 Contact Me
-- **Portfolio:** [axel-paredes-portfolio.vercel.app](https://axel-paredes-portfolio.vercel.app)
-- **Email:** paredes.axel456@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/axel-paredes-4b4679398](https://www.linkedin.com/in/axel-paredes-4b4679398)
+### RideAlert Machine Learning Core
+**[View Repository](https://github.com/Fujitive013/ML-code-RideAlert)**
+Applied AI integration featuring a Multi-Output Gradient Boosting Regressor designed for predictive alerts. This project focuses heavily on complex geospatial data preprocessing and server-side model optimization using Python.
 
 ---
 
+## Core Technologies
+
+**Frontend & Mobile:** 
+Next.js | React.js | TypeScript | React Native | Expo | Tailwind CSS
+
+**Backend & Databases:** 
+Node.js | Express.js | Python | FastAPI | PostgreSQL | MongoDB | DrizzleORM
+
+**Infrastructure & Tooling:** 
+Git / GitHub | Docker | Vercel | Postman | Socket.io | JWT / RBAC Security
+
+---
+
+## Contact Information
+
+*   **Portfolio:** [axel-paredes-portfolio.vercel.app](https://axel-paredes-portfolio.vercel.app)
+*   **LinkedIn:** [linkedin.com/in/axel-paredes-4b4679398](https://www.linkedin.com/in/axel-paredes-4b4679398)
+*   **Email:** paredes.axel456@gmail.com
